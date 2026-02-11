@@ -1,0 +1,30 @@
+[
+  {
+    "id": "u1",
+    "email": "alice@trigano.local",
+    "name": "Alice Martin",
+    "role": "trigano_staff",
+    "roleLabel": "Personnel Trigano VDL"
+  },
+  {
+    "id": "u2",
+    "email": "paul@dealer.local",
+    "name": "Paul Dubois",
+    "role": "dealer_agent",
+    "roleLabel": "Distributeur / Agent"
+  },
+  {
+    "id": "u3",
+    "email": "camille@presspro.local",
+    "name": "Camille Renoir",
+    "role": "press_specialized",
+    "roleLabel": "Presse spécialisée"
+  },
+  {
+    "id": "u4",
+    "email": "leo@press.local",
+    "name": "Léo Bernard",
+    "role": "press_general",
+    "roleLabel": "Presse généraliste"
+  }
+]
