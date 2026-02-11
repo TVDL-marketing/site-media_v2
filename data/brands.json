@@ -1,0 +1,60 @@
+[
+  {
+    "id": "challenger",
+    "name": "Challenger",
+    "accent": "#A81A17",
+    "visibleRoles": [
+      "trigano_staff",
+      "dealer_agent",
+      "press_specialized",
+      "press_general"
+    ]
+  },
+  {
+    "id": "chausson",
+    "name": "Chausson",
+    "accent": "#438F29",
+    "visibleRoles": [
+      "trigano_staff",
+      "dealer_agent",
+      "press_specialized",
+      "press_general"
+    ]
+  },
+  {
+    "id": "caravelair",
+    "name": "Caravelair",
+    "accent": "#145FAC",
+    "visibleRoles": [
+      "trigano_staff",
+      "dealer_agent"
+    ]
+  },
+  {
+    "id": "sterckeman",
+    "name": "Sterckeman",
+    "accent": "#BE1824",
+    "visibleRoles": [
+      "trigano_staff",
+      "dealer_agent"
+    ]
+  },
+  {
+    "id": "rubis",
+    "name": "Rubis",
+    "accent": "#706F6F",
+    "visibleRoles": [
+      "trigano_staff",
+      "dealer_agent"
+    ]
+  },
+  {
+    "id": "mini-freestyle",
+    "name": "Mini Freestyle",
+    "accent": "#FDB813",
+    "visibleRoles": [
+      "trigano_staff",
+      "dealer_agent"
+    ]
+  }
+]

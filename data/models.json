@@ -1,0 +1,38 @@
+{
+  "challenger": [
+    "V114",
+    "V210",
+    "S217",
+    "X150",
+    "X250"
+  ],
+  "chausson": [
+    "C514",
+    "C656",
+    "S697",
+    "X550",
+    "X650"
+  ],
+  "caravelair": [
+    "Alba 426",
+    "Antares 476",
+    "Sport Line 486",
+    "Artica 520"
+  ],
+  "sterckeman": [
+    "Easy 390",
+    "Evolution 470",
+    "Graphite 492",
+    "Starlett 480"
+  ],
+  "rubis": [
+    "R40",
+    "R55",
+    "R70"
+  ],
+  "mini-freestyle": [
+    "MF1",
+    "MF2",
+    "MF3"
+  ]
+}
